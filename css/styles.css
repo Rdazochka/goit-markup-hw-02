@@ -8,6 +8,10 @@ a {
   text-decoration: none;
 }
 
+address a {
+  display: block;
+}
+
 ul,
 ol {
   list-style: none;
