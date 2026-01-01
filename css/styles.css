@@ -49,6 +49,16 @@ h1 {
   background-color: #f4f4fd;
 }
 
-.our-team h2 {
+.our-team h2,
+.our-team h3,
+.our-team p {
+  text-align: center;
+}
+
+.our-team li {
+  background-color: #ffffff;
+}
+
+.our-portfolio h2 {
   text-align: center;
 }
