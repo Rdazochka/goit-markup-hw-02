@@ -70,7 +70,16 @@ h1 {
 .footer {
   color: #f4f4fd;
   background-color: #2e2f42;
+  font-size: 16px;
 }
+
+.logo-foother {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
 .logo-foother .logo-foother-web {
   color: #4d5ae5;
 }
