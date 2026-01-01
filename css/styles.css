@@ -12,3 +12,17 @@ ul,
 ol {
   list-style: none;
 }
+
+.logo {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.logo-web {
+  color: #4d5ae5;
+}
+
+.logo-studio {
+  color: #2e2f42;
+}
