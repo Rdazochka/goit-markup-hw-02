@@ -48,6 +48,9 @@ h1 {
 .our-team {
   background-color: #f4f4fd;
 }
+.our-team h2 {
+  font-size: 36px;
+}
 
 .our-team h2,
 .our-team h3,
@@ -61,4 +64,17 @@ h1 {
 
 .our-portfolio h2 {
   text-align: center;
+  font-size: 36px;
+}
+
+.footer {
+  color: #f4f4fd;
+  background-color: #2e2f42;
+}
+.logo .logo-foother-web {
+  color: #4d5ae5;
+}
+
+.logo .logo-foother-studio {
+  color: #f4f4fd;
 }
