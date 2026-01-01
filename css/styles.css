@@ -32,11 +32,13 @@ ol {
   color: #2e2f42;
 }
 
-.nav:hover {
+.nav a:hover,
+.nav a:focus {
   color: #404bbf;
 }
 
-.address:hover {
+.address a:hover,
+.address a:focus {
   color: #404bbf;
 }
 
