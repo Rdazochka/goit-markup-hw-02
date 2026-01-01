@@ -32,6 +32,14 @@ ol {
   color: #2e2f42;
 }
 
+.nav:hover {
+  color: #404bbf;
+}
+
+.address:hover {
+  color: #404bbf;
+}
+
 h1 {
   color: WHITE;
 }
@@ -46,6 +54,11 @@ h1 {
 
 .button {
   background-color: #4d5ae5;
+  color: #ffffff;
+}
+
+.button:hover {
+  background-color: #404bbf;
   color: #ffffff;
 }
 
