@@ -8,6 +8,11 @@ a {
   text-decoration: none;
 }
 
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
 address a {
   display: block;
 }
@@ -47,19 +52,19 @@ h1 {
   line-height: 1.07;
   font-size: 56px;
   font-weight: 700;
+  text-align: center;
 }
 
 .solutions {
   background-color: #2e2f42;
 }
 
-h1 {
-  text-align: center;
-}
-
 .button {
+  font-size: 16px;
   background-color: #4d5ae5;
   color: #ffffff;
+  cursor: pointer;
+  line-height: 1.5;
 }
 
 .button:hover {
