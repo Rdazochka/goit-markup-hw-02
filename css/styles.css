@@ -44,6 +44,9 @@ ol {
 
 h1 {
   color: WHITE;
+  line-height: 1.07;
+  font-size: 56px;
+  font-weight: 700;
 }
 
 .solutions {
@@ -92,17 +95,17 @@ h1 {
   font-size: 16px;
 }
 
-.logo-foother {
+.logo-footer {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   text-transform: uppercase;
 }
 
-.logo-foother .logo-foother-web {
+.logo-footer .logo-footer-web {
   color: #4d5ae5;
 }
 
-.logo-foother .logo-foother-studio {
+.logo-footer .logo-footer-studio {
   color: #f4f4fd;
 }
