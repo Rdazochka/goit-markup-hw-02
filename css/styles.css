@@ -159,7 +159,8 @@ h1 {
   color: #2e2f42;
 }
 
-.our-portfolio {
+.our-portfolio p {
+  text-align: center;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
