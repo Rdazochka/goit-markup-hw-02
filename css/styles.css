@@ -24,6 +24,8 @@ ol {
   font-weight: 700;
   font-size: 18px;
   text-transform: uppercase;
+  letter-spacing: 0.03em;
+  line-height: 1.16;
 }
 
 .logo .logo-web {
@@ -67,7 +69,7 @@ address a {
 }
 
 h1 {
-  color: WHITE;
+  color: #ffffff;
   line-height: 1.07;
   font-size: 56px;
   font-weight: 700;
@@ -121,6 +123,10 @@ h1 {
 .our-team h2 {
   font-size: 36px;
   text-align: center;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .our-team h3 {
@@ -147,11 +153,15 @@ h1 {
 
 .our-portfolio h2 {
   text-align: center;
+  font-weight: 700;
   font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .our-portfolio h3 {
-  text-align: center;
+  text-align: left;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -160,7 +170,7 @@ h1 {
 }
 
 .our-portfolio p {
-  text-align: center;
+  text-align: left;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -184,6 +194,7 @@ h1 {
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 0.03em;
+  line-height: 1.16;
 }
 
 .logo-footer .logo-footer-web {
